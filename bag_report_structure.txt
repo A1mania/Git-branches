@@ -1,0 +1,12 @@
+Summary
+Project
+Component
+Version
+Severenity
+Priority
+Status
+Author
+Assigned to
+Enviroment
+Steps to reproduce
+Result
